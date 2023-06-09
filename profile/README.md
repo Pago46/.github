@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://pago46.com/">
-    <img src="profile/assets/img/logo.png" alt="Logo" height="200">
+    <img src="assets/img/logo.png" alt="Logo" height="200">
   </a>
 
   <h3 align="center">🚀 Pago46 🚀</h3>
