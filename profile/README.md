@@ -3,32 +3,43 @@
     <img src="profile/assets/img/logo.png" alt="Logo" height="200">
   </a>
 
-  <h3 align="center">🚀 Pago46 🚀</h3>
+  <h3 align="center">Pago46: The Financial Backbone for Latin America</h3>
 
   <p align="center">
-    The mightiest fintech on earth! 🌎💰
+    Engineering economic access and opportunity across LATAM
     <br />
     <br />
-    <a href="https://pago46.com/"><strong>Explore our website »</strong></a>
+    <a href="https://pago46.com/"><strong>Explore our platform »</strong></a>
     <br />
     <br />
   </p>
 </p>
 
-## 📝 About Us
+## Our Mission
 
-Here at Pago46, we're more than just a fintech company. We are a team of engineers, problem solvers, and innovators - shaping the way cash transactions are handled across Latin America. We are passionate about our work, and we are always looking for like-minded people to join our mission.
+We are building the **financial backbone for the unbanked and underbanked population of Latin America**. We create accessible, reliable, and scalable financial tools that enable economic participation for millions across the region.
 
-## 💼 We're Hiring!
+## For Developers & Partners
 
-Interested in joining our cause? We're always on the lookout for talented individuals who are passionate about fintech and want to make a difference. Feel free to reach out to us at <a href="mailto:rrhh@46degrees.net">rrhh@46degrees.net</a>. We can't wait to hear from you! 💼📧
+Integrate with our platform and access comprehensive technical documentation:
 
-## 🛠 This is the Engineering Hub
+**📚 [docs.pago46.io](https://docs.pago46.io)** - Complete integration guides, API documentation, and best practices for:
+- **Merchant Integrations** - Connect your business to our payment infrastructure
+- **External Networks** - Partner with us to expand financial access
+- **Custom Products** - Build tailored financial solutions
 
-This organization is where we host our code, collaborate, and build our solutions. If you're a part of the team, feel free to dig around and explore. If you're a visitor, enjoy the tour! There's plenty to learn from our open repositories, and we hope they inspire you as much as they inspire us. 👩‍💻👨‍💻
+## Careers
 
-## 📫 Contact
+Join our engineering team building the future of financial infrastructure in Latin America.
 
-Got a question or just want to chat? Reach out to us at <a href="mailto:info@pago46.com">info@pago46.com</a> or check out our [website](https://pago46.com/). We'd love to hear from you!
+**Contact:** [rrhh@46degrees.net](mailto:rrhh@46degrees.net)
 
-Enjoy exploring our corner of GitHub! 🎉💻
+## Connect
+
+- **Platform:** [pago46.com](https://pago46.com/)
+- **Documentation:** [docs.pago46.io](https://docs.pago46.io)
+- **Contact:** [info@pago46.com](mailto:info@pago46.com)
+
+---
+
+*Building accessible financial infrastructure for Latin America*
