@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://pago46.com/">
-    <img src="profile/assets/img/logo.png" alt="Logo" height="200">
+    <img src="assets/img/logo.png" alt="Logo" height="200">
   </a>
 
   <h3 align="center">Pago46: The Financial Backbone for Latin America</h3>
@@ -24,6 +24,7 @@ We are building the **financial backbone for the unbanked and underbanked popula
 Integrate with our platform and access comprehensive technical documentation:
 
 **📚 [docs.pago46.io](https://docs.pago46.io)** - Complete integration guides, API documentation, and best practices for:
+
 - **Merchant Integrations** - Connect your business to our payment infrastructure
 - **External Networks** - Partner with us to expand financial access
 - **Custom Products** - Build tailored financial solutions
