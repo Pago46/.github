@@ -17,7 +17,7 @@
 
 ## Our Mission
 
-We are building the **financial backbone for the unbanked and underbanked
+We are building the **financial infrastructure for the unbanked and underbanked
 population of Latin America**. We create accessible, reliable, and scalable
 financial tools that enable economic participation for millions across the
 region.
